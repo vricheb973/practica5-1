@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            raul-profesor/practica_7.1:latest 
+            vricheb973/practica5-1:latest 
